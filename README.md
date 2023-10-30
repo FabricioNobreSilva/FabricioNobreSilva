@@ -2,8 +2,10 @@
 
 - 🌆 Morando em São Paulo, SP
 - 🎓 Formado em Python e estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Bootcamp Amazom AWS
 - 💼 Trabalhando como Analista para Incorporadoras em São Paulo
 - 🚀 Pretensão de me tornar um Desenvolvedor Jr.
+  
 
 ### Sobre Mim
 
