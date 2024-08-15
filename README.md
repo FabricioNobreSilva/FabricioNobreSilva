@@ -7,7 +7,19 @@
       <h1>Welcome to the Fiesta 🪩🥳</h1>
       <hr/>
       <p>Meu nome é Fabricio, sou técnico em tecnologia da informação.</p>
+      <hr>
+      <h1> Linguagens </h1>
+      <hr>
       <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Python</li>
+        <li>Markdown</li>
+        <li>JavaScript</li>
+      <ul>
+        <hr>
+        <h1>Experiencia Prática</h1>
+        <br>
         <li>Infraestrutura 🔌</li>
         <li>Redes 🛜</li>
         <li>CISCO 🔥</li>
