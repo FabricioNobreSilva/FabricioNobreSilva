@@ -29,6 +29,21 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioNobreSilva&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00FF4122" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabricioNobreSilva&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
 ## 👨‍💻 Sobre mim
 
 ```yaml
@@ -69,20 +84,6 @@ status:    Disponível para projetos 🟢
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioNobreSilva&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00FF4122" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabricioNobreSilva&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
