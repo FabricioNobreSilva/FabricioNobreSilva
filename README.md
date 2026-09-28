@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Fabricio%20Nobre&fontSize=50&fontColor=000000&fontAlignY=35&desc=Supervisor%20Técnico%20em%20T.I%20%7C%20Desenvolvedor%20de%20Sistemas&descAlignY=55&descColor=000000&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://fabricionobresilva.github.io/FabricioNobreSilva/">
-    <img src="https://img.shields.io/badge/🖥️%20VER%20PERFIL%20INTERATIVO%20MATRIX-00FF41?style=for-the-badge&logoColor=000" />
-  </a>
-</div>
 
 <br/>
 
